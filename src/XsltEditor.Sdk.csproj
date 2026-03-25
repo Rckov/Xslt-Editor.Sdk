@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	
+	<PropertyGroup>
+		<Authors>Rckov</Authors>
+		<Company>Rckov</Company>
+		<Product>XsltEditor.Sdk</Product>
+		<PackageId>XsltEditor.Sdk</PackageId>
+		<Title>XsltEditor.Sdk</Title>
+		<Description>SDK for building XSLT Editor plugins</Description>
+		<PackageTags>xslt;editor;plugin;sdk;xml;xsl</PackageTags>
+		<RepositoryUrl>https://github.com/Rckov/Xslt-Editor.Sdk</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/Rckov/Xslt-Editor.Sdk</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+	</PropertyGroup>
+</Project>
