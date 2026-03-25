@@ -13,8 +13,8 @@
 		<Title>XsltEditor.Sdk</Title>
 		<Description>SDK for building XSLT Editor plugins</Description>
 		<PackageTags>xslt;editor;plugin;sdk;xml;xsl</PackageTags>
-		<RepositoryUrl>https://github.com/Rckov/Xslt-Editor.Sdk</RepositoryUrl>
-		<PackageProjectUrl>https://github.com/Rckov/Xslt-Editor.Sdk</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Rckov/Xslt-Editor-Sdk</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/Rckov/Xslt-Editor-Sdk</PackageProjectUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
