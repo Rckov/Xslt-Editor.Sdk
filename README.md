@@ -36,4 +36,4 @@ public class MyPlugin : PluginBase
 Build your plugin and copy the output dll to `plugins/{plugin-name}/` next to the editor executable.
 
 ## License
-Licensed under [MIT](LICENSE). [Report an Issue](https://github.com/Rckov/Xslt-Editor.Sdk/issues)
+[MIT License](LICENSE) | [Report an Issue](https://github.com/Rckov/Xslt-Editor.Sdk/issues)
